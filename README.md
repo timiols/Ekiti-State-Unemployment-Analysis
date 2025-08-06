@@ -5,6 +5,8 @@ To explore and analyze the dataset of unemployed persons in Ekiti State with the
 
 <img width="747" height="419" alt="Screenshot 2025-08-06 141508" src="https://github.com/user-attachments/assets/2d171726-aa64-4fa1-8c70-8569bed91912" />
 
+[Click to interact with dashboard](https://github.com/timiols/Ekiti-State-Unemployment-Analysis/blob/413bc31605f20244d0c03fc56f6f6054467afd6f/EK%20UNEMPLOYMENT%20ANALYSIS%20(POWER%20BI%20DASHBOARD).pbix)
+
 
 ## Dataset
 The dataset used in this report was sourced from residents of the state via Goggle forms. [Ekiti state unemployment analysis data-set](https://github.com/timiols/Ekiti-State-Unemployment-Analysis/blob/75120f17cf8cc2038fc5e742f09623e70c7316be/EK%20UNEMPLOYMENT%20ANALYSIS%20(csv).csv)
