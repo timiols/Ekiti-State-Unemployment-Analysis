@@ -15,6 +15,17 @@ The dataset used in this report was sourced from residents of the state via Gogg
 - **Power BI** – For visualization and interactive dashboarding
 ## Data cleaning
 A couple of steps were taken to improve the useability of the dataset;
-- Dropped rows with missing values key enough to impoact the integrity of the data
-- Corrected a lot of inconsistencies as a result of wrong spellings characters
+- Dropped rows with missing values key enough to impoact the integrity of the data.
+- Corrected a lot of inconsistencies as a result of wrong input of characters.
 - created a new column using condtional column to properly reflect the classification of Age of the respondents.
+## Insights 
+- The largest proportion of unemployed individuals falls within the 25–34 age range.
+- Over 60% of unemployed individuals hold tertiary education degrees.
+- The gender split is approximately 65% female and 33% male.
+- Many respondents show interest in key economic sectors such as Health. Agriculture, Education and Tech.
+- Strong Representation of Educated Youth-Most individuals hold B.Sc., HND, or OND degrees and  a large percentage of the respondents falls under Youth and young  Adult age category
+- There is an abundance of skill sets amongst the respondents, skills include Project Management, Software/Web Development, Digital Marketing, Fashion, and Health Care amongst others. Some individuals even listed multiple complementary skills
+
+
+
+
